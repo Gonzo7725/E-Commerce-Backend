@@ -13,6 +13,17 @@ This week we were challenged to create an E-commerce-backend such as Shopify or 
 
 
 ## Usage
+Link to Categories video
+
+`<iframe src="https://drive.google.com/file/d/1p35EtgZUW-gLdLorEAHKfDmUczATXKeh/preview" width="640" height="480"></iframe>`
+
+Link to Products video
+
+`<iframe src="https://drive.google.com/file/d/1UOf1KZgs9BoFs9-8lBz1G2str3ijrmKJ/preview" width="640" height="480"></iframe>`
+
+Link to Tags video
+
+`<iframe src="https://drive.google.com/file/d/1-ivtkA1642Hl9MqSHBVUC49pf1NLskQ3/preview" width="640" height="480"></iframe>`
 
 With this application we can get data for categories, products, and tags, as well as create, update, and delete the data in those routes.
 
